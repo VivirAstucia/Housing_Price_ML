@@ -1,3 +1,6 @@
 .venv/
 datasets/
 tempCodeRunnerFile.py
+tempCodeRunnerFile.ipynb
+__pycache__/
+.cph/
