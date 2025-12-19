@@ -14,3 +14,18 @@ This repository contains a machine learning project focused on predicting housin
 - Python
     - Pandas, Numpy, Sklearn, Matplotlib, Urllib
 - Jupyter Notebook
+
+## Learning Model Explored  
+- Linear Regression
+- Decision Tree Regressor
+- Random Forest Regressor
+    - Did not work well as the dataset is not large enough
+- Gradient Boosting Regressor
+    - Worked decently, as tabular data
+- Histogram-based Gradient Boosting Regressor
+    - Worked the best among all models tried
+    - Mostly because it handles categorical features natively
+  
+- Finetunners
+    - GridSearchCV
+    - RandomizedSearchCV
