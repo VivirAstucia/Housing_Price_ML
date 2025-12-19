@@ -4,7 +4,7 @@ This repository contains a machine learning project focused on predicting housin
 ## Notebooks  
 1. [California Housing Price Prediction ML](California.ipynb)  
    [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)](https://www.kaggle.com/code/vivirastucia/california-housing)
-2. 
+2. [Delhi Housing Price Prediction ML](Delhi.ipynb)
 
 ## Datasets
 - [California Housing Dataset](https://www.kaggle.com/datasets/camnugent/california-housing-prices)
